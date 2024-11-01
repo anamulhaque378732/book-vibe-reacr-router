@@ -1,0 +1,155 @@
+[
+    {
+        "bookId": "1",
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co.com/p3K245q/5c6c68968b77f64e4a3a1ac2a93b7d23-png-wh300.png",
+        "review": "Set in the 1930s South, Harper Lee’s Pulitzer Prize-winning novel, 'To Kill a Mockingbird,' unfolds through the eyes of Scout Finch, a young girl in a racially divided town. Her father, Atticus Finch, a principled lawyer, defends a Black man wrongly accused of raping a white woman, challenging the prejudices of the townspeople. The novel masterfully portrays moral and social issues through complex characters and explores themes of compassion, justice, and human decency. With its memorable characters and thought-provoking narrative, it has become an enduring classic that resonates across generations, evoking deep reflection on morality and empathy.",
+        "totalPages": 324,
+        "category": "Fiction",
+        "rating": 4.8,
+        "tags": [
+            "Classic",
+            "Racism",
+            "  Age"
+        ],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": "2",
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co.com/MZVkzPb/11-brown-book-png-image-image-thumb.png",
+        "review": "George Orwell’s dystopian masterpiece, '1984,' depicts a totalitarian society under the omnipresent surveillance of Big Brother. Winston Smith, a low-ranking Party member, grapples with the oppressive system and his desire for freedom and individuality. Orwell's novel, written in 1949, foresaw the chilling implications of authoritarian control, psychological manipulation, and surveillance. His warnings about censorship and the loss of personal liberties continue to feel disturbingly relevant in modern society, cementing '1984' as a profound exploration of the human spirit’s resilience in the face of oppression and a powerful critique of authoritarianism.",
+        "totalPages": 328,
+        "category": "Science Fiction",
+        "rating": 4.6,
+        "tags": [
+            "Dystopian",
+            "Political",
+            "Classic"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": "3",
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co.com/v3q6t8M/463-4638931-book-png-wood-transparent-png.jpg",
+        "review": "In 'The Great Gatsby,' F. Scott Fitzgerald paints a vivid portrait of the Roaring Twenties and explores the disillusionment with the American Dream. Jay Gatsby, a wealthy yet mysterious man, throws lavish parties to catch the attention of Daisy Buchanan, a woman he loves but who is married to another man. Through Nick Carraway’s narration, the story unveils Gatsby’s tragic pursuit of love and the emptiness that often accompanies wealth. With lyrical prose, complex characters, and sharp social commentary, Fitzgerald’s work encapsulates the ephemeral nature of ambition, desire, and the American Dream.",
+        "totalPages": 180,
+        "category": "Fiction",
+        "rating": 4.5,
+        "tags": [
+            "Classic",
+            "Tragedy",
+            "1920s"
+        ],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": "4",
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co.com/LhF1RZf/book-png-image-pngfre-36.png",
+        "review": "In 'Pride and Prejudice,' Jane Austen delivers a timeless romance set against the backdrop of class and societal expectations in 19th-century England. The spirited Elizabeth Bennet navigates family pressures, social norms, and her own judgmental nature as she encounters the wealthy, brooding Mr. Darcy. What starts as a conflict of pride and prejudice between Elizabeth and Darcy evolves into a profound love story. With wit, humor, and keen social insight, Austen explores themes of marriage, family, and morality, making this novel an enduring exploration of character and integrity.",
+        "totalPages": 279,
+        "category": "Romance",
+        "rating": 4.7,
+        "tags": [
+            "Classic",
+            "Romance",
+            "Society"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": "5",
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co.com/jW7RLnC/istockphoto-183890264-612x612.jpg",
+        "review": "J.D. Salinger’s 'The Catcher in the Rye' introduces readers to Holden Caulfield, a rebellious teenager who struggles with his identity and place in a world he finds phony. Set in the 1950s, Holden’s inner monologue reveals his disdain for societal conventions and his desire to preserve innocence, especially his own. Salinger’s candid portrayal of adolescent angst and isolation resonated with generations, making Holden an emblematic character for youthful defiance. A landmark of contemporary American literature, this novel explores themes of alienation, identity, and the challenges of growing up in an often hypocritical world.",
+        "totalPages": 214,
+        "category": "Fiction",
+        "rating": 4.2,
+        "tags": [
+            "Classic",
+            "  Age",
+            "Controversial"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": "6",
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co.com/MC6Pw63/pngtree-brown-cartoon-book-illustration-image-1466557.jpg",
+        "review": "In 'The Hobbit,' J.R.R. Tolkien invites readers on a journey through Middle-earth with Bilbo Baggins, a reluctant hero, as he encounters trolls, elves, and a dragon on a quest for treasure. This enchanting tale combines whimsy with adventure and serves as the precursor to the legendary 'Lord of the Rings' trilogy. Tolkien’s masterful world-building, mythological elements, and intricate character arcs set a high standard for fantasy literature, making 'The Hobbit' an enduring classic beloved by readers of all ages.",
+        "totalPages": 310,
+        "category": "Fantasy",
+        "rating": 4.8,
+        "tags": [
+            "Fantasy",
+            "Adventure",
+            "Classic"
+        ],
+        "publisher": "George Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": "7",
+        "bookName": "Moby-Dick",
+        "author": "Herman Melville",
+        "image": "https://i.ibb.co.com/SVJcKCb/images-1.jpg",
+        "review": "Herman Melville’s epic novel, 'Moby-Dick,' tells the story of Captain Ahab’s obsessive quest to hunt the great white whale, Moby Dick, which symbolizes both the destructive power of nature and the depths of human obsession. Narrated by Ishmael, the story delves into themes of revenge, madness, and fate. Through intricate descriptions and rich symbolism, Melville explores existential questions and the complexities of humanity’s relationship with nature. Although initially misunderstood, 'Moby-Dick' is now regarded as one of the greatest American novels, revered for its philosophical depth and literary ambition.",
+        "totalPages": 635,
+        "category": "Adventure",
+        "rating": 4.0,
+        "tags": [
+            "Classic",
+            "Adventure",
+            "Sea"
+        ],
+        "publisher": "Harper & Brothers",
+        "yearOfPublishing": 1851
+    },
+    {
+        "bookId": "8",
+        "bookName": "Brave New World",
+        "author": "Aldous Huxley",
+        "image": "https://i.ibb.co.com/WWsN3m6/brown-leather-book-isolated-on-260nw-148819553.webp",
+        "review": "Aldous Huxley’s 'Brave New World' envisions a future society where individuals are conditioned to accept their roles in a rigid caste system. Set in a world of genetic engineering, pervasive happiness, and synthetic pleasures, the story challenges the cost of an ostensibly perfect world. Through the eyes of Bernard Marx and John, the Savage, Huxley explores the dangers of state control, loss of individuality, and the ethical dilemmas of scientific progress. Both disturbing and thought-provoking, this novel remains a cautionary tale about the perils of consumerism and technological overreach.",
+        "totalPages": 265,
+        "category": "Science Fiction",
+        "rating": 4.5,
+        "tags": [
+            "Dystopian",
+            " Fiction",
+            "Society"
+        ],
+        "publisher": "Chatto & Windus",
+        "yearOfPublishing": 1932
+    },
+    {
+        "bookId": "9",
+        "bookName": "Brave New World",
+        "author": "Aldous Huxley",
+        "image": "https://i.ibb.co.com/WWsN3m6/brown-leather-book-isolated-on-260nw-148819553.webp",
+        "review": "Aldous Huxley’s 'Brave New World' envisions a future society where individuals are conditioned to accept their roles in a rigid caste system. Set in a world of genetic engineering, pervasive happiness, and synthetic pleasures, the story challenges the cost of an ostensibly perfect world. Through the eyes of Bernard Marx and John, the Savage, Huxley explores the dangers of state control, loss of individuality, and the ethical dilemmas of scientific progress. Both disturbing and thought-provoking, this novel remains a cautionary tale about the perils of consumerism and technological overreach.",
+        "totalPages": 268,
+        "category": "Science Fiction",
+        "rating": 4.9,
+        "tags": [
+            "Dystopian",
+            " Fiction",
+            "Society"
+        ],
+        "publisher": "Chatto & Windus",
+        "yearOfPublishing": 1933
+    }
+]
